@@ -1,0 +1,11 @@
+<div class="form-group">
+<label for="InputLocation">Location</label>
+<input type="Location" class="form-control" id="InputLocation" placeholder="Location">
+</div>
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
